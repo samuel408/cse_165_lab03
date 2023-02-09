@@ -2,10 +2,7 @@
 #include <vector>
 using namespace std;
 int length = 0;
-void point(vector<string> V, vector<string> words){
-    
 
-}
 
 int main (){
 vector<string> V(10);
